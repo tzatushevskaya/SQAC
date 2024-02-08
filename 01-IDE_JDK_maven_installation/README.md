@@ -1,4 +1,4 @@
-## Installation of IDE, JDK & Maven ##
+## Installation of Git, IDE, JDK & Maven ##
 
 - [Windows](#windows)
 - [Mac](#mac)
@@ -8,6 +8,7 @@
 
 ### <a id=windows></a> Installation on Windows ###
 
+1. Download & install [git](https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC).
 1. Download & install [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC).
 2. Download [OpenJDK 16](https://download.java.net/openjdk/jdk16/ri/openjdk-16+36_windows-x64_bin.zip) or select a newer version [here](https://jdk.java.net/).
 3. Extract the archive into the dedicated folder.
